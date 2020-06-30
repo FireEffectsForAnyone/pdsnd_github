@@ -1,15 +1,18 @@
 ### Date created
-Include the date you created this project and README file.
+This project was created on the 30th of June, 2020.
 
 ### Project Title
-Replace the Project Title
+Exploring US Bikeshare Data
 
 ### Description
-Describe what your project is about and what it does
+This project will give you a clear understanding (based on your choices during the run of the command) about what data you want to know about Bikeshare Data, and you get choose from either Washington D.C, New York City, or Chicago.
 
 ### Files used
-Include the files used
+.gitignore
+bikeshare.py
+chicago.csv
+new_york_city.csv
+washington.csv
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
+Thank you to Udacity for giving me this massive opportunity, and I truly appreciate it. :)
