@@ -129,7 +129,7 @@ def trip_duration_stats(df):
     print('-'*40)
 
 
-def user_stats(df):
+def user_statistics(df):
     """Displays statistics on bikeshare users."""
 
     print('\nCalculating User Stats...\n')
@@ -183,7 +183,7 @@ def main():
             time_stats(df)
             station_stats(df)
             trip_duration_stats(df)
-            user_stats(df)
+            user_statistics(df)
 
             restart = input('\nWould you like to restart? Enter yes or no.\n')
             if restart.lower() != 'yes':
